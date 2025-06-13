@@ -1,1 +1,1 @@
-# -ResearchHub-
+# ResearchHub
